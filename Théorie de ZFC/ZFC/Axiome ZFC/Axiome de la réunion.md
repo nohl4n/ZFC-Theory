@@ -1,0 +1,2 @@
+## [[Axiome de la réunion]]$$\forall A \, \exists W \, \forall x \,(\exists a \,(\,a\in A \wedge x \in a) \Rightarrow x \in W)$$
+Quel que soit l'ensemble A, il existe au moins un ensemble $W$ qui satisfait : tout élément d'un élément de $A$ est élément de $W$

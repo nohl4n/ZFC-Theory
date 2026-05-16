@@ -1,0 +1,2 @@
+## [[Théorie ZFC#Axiome de la paire $$ forall x forall y exists z(x in z wedge z in z)$$|Axiome de la paire]]: $$\forall x \forall y \exists z(x\in z \wedge y\in z)$$ 
+Etant donnés des ensembles $x$ et $y$, il existe $z$ tel que $x$ et $y$ sont dans $z$ 

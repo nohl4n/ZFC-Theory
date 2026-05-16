@@ -1,0 +1,2 @@
+## [[Axiome de spécification]] :$$\forall x (x\in B \Leftrightarrow [x\in A \,\wedge \, P(x)]) $$
+étant donnés un ensemble $A$ et une [[Théorie ZFC#Axiome d’extensionnalité $$ forall x forall y (x=y Leftrightarrow forall z (z in x Leftrightarrow z in y)$$|condition]] $P(x)$ sur $x$, il existe un ensemble B dont les éléments sont précisément les éléments $x$ de $A$ qui satisfont la condition $P(x)$

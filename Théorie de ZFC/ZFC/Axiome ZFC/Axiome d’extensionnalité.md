@@ -1,0 +1,2 @@
+## [[Théorie ZFC#Axiome d’extensionnalité $$ forall x forall y (x=y Leftrightarrow forall z (z in x Leftrightarrow z in y)$$|Axiome d’extensionnalité]] :$$\forall x \forall y (x=y \Leftrightarrow \forall z (z \in x \Leftrightarrow z \in y)$$
+Deux ensemble sont égaux si et seulement si ils ont les mêmes éléments.

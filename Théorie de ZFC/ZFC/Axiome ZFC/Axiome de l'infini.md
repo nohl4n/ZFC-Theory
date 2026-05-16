@@ -1,0 +1,2 @@
+## [[Théorie ZFC#Axiome de l'infini $$ exists x ( emptyset in x wedge forall y(y in x Rightarrow Sx in x)$$$$Sx = x cup {x }$$|Axiome de l'infini]]$$\exists x (\emptyset \in x \wedge \forall y(y\in x \Rightarrow Sx \in x)$$$$Sx = x\cup\{x\}$$
+il existe une ensemble inductif
