@@ -121,3 +121,15 @@ Les liens `[[...]]` entre notes sont navigables directement dans l'interface Obs
 | B^A | Ensemble des fonctions de A vers B |
 | ω | Plus petit ensemble inductif (entiers naturels) |
 | Sx | Successeur de x : x ∪ {x} |
+
+---
+
+## État du projet
+- [x] Logique du premier ordre
+- [x] Axiomes ZFC (7 axiomes formalisés)
+- [x] Définitions de base (fonctions, produit cartésien, entiers naturels)
+- [x] Théorème ZFC ⊇ Peano
+- [ ] Ordinaux et cardinaux
+- [ ] Axiome du choix et ses équivalents (lemme de Zorn, théorème de Zermelo)
+- [ ] Construction de ℝ dans ZFC
+- [ ] Objets mathématiques jusqu'en L3
